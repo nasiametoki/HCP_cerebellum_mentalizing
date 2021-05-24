@@ -1,0 +1,2 @@
+/path/waypoints/r_cerebel_bin.nii.gz
+/path/waypoints/l_hemisphere_bin.nii.gz
